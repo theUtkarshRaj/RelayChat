@@ -1,0 +1,29 @@
+# Backend dependencies
+backend/**/node_modules
+
+# Backend build files
+backend/**/dist
+backend/**/build
+
+# Environment files
+backend/**/.env
+backend/**/.env.*
+
+# Logs
+logs
+*.log
+
+# Guide or notes
+guide.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
