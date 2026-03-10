@@ -5,6 +5,7 @@ backend/**/node_modules
 backend/**/dist
 backend/**/build
 
+
 # Environment files
 backend/**/.env
 backend/**/.env.*
